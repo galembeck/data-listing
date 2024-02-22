@@ -1,84 +1,453 @@
 {
   "tags": [
-    {"id": "4D8E72FA-1F89-49C2-8E6B-51A1E0A59BFD", "title": "React", "slug": "old", "amountOfVideos": 142},
-    {"id": "7A3D12BC-9E54-45F1-A92D-6F8EBA7C5932", "title": "JavaScript", "slug": "old", "amountOfVideos": 98},
-    {"id": "2F6C845E-3B7F-4F3C-89BD-F6F46E58E65D", "title": "Python", "slug": "old", "amountOfVideos": 120},
-    {"id": "9CE285F1-9808-4A1D-8716-431B95F43061", "title": "Java", "slug": "old", "amountOfVideos": 85},
-    {"id": "D7E89451-8D79-4F82-BF84-F3B6E2271583", "title": "HTML", "slug": "old", "amountOfVideos": 75},
-    {"id": "F4C2A0D8-7D9F-4FCC-BCD6-3F52209EBC54", "title": "CSS", "slug": "old", "amountOfVideos": 110},
-    {"id": "B2425A16-9F9E-46CF-B473-FC5CF8DA8188", "title": "Node.js", "slug": "old", "amountOfVideos": 95},
-    {"id": "6B362F17-527D-42B1-9E6E-FC20EAA05E36", "title": "Angular", "slug": "old", "amountOfVideos": 130},
-    {"id": "C52BB21F-1551-42D8-83C2-32EE251A104A", "title": "Vue.js", "slug": "old", "amountOfVideos": 115},
-    {"id": "5B6B5AA9-38EC-477B-AC8F-1C0A6BBB8C32", "title": "Django", "slug": "old", "amountOfVideos": 80},
-    {"id": "64D013A2-BFF6-4B0F-A2BD-27C1322F3D84", "title": "Flask", "slug": "old", "amountOfVideos": 60},
-    {"id": "41E3F2C4-6DB4-4326-8B46-3A6A2F601158", "title": "Express.js", "slug": "old", "amountOfVideos": 105},
-    {"id": "35D225C1-58EB-4598-B1A7-8394C31E1F25", "title": "MongoDB", "slug": "old", "amountOfVideos": 90},
-    {"id": "87B477E4-37EC-4F59-82E6-9E68CEA06E34", "title": "SQL", "slug": "old", "amountOfVideos": 70},
-    {"id": "A91A47F5-2E23-4DD5-B5D5-22E587D312AB", "title": "TypeScript", "slug": "old", "amountOfVideos": 88},
-    {"id": "9ECFD155-0983-45A2-A670-5575C4DA6FA3", "title": "C++", "slug": "old", "amountOfVideos": 75},
-    {"id": "8D1A70F6-4422-4FE3-8D09-17D73859CCAA", "title": "C#", "slug": "old", "amountOfVideos": 82},
-    {"id": "4E3E0A5A-3D90-4E98-B77A-103A9F85D16A", "title": "Ruby", "slug": "old", "amountOfVideos": 78},
-    {"id": "537E5C2E-A380-45E3-84D6-B4E37E4B755E", "title": "Swift", "slug": "old", "amountOfVideos": 68},
-    {"id": "FAC2E4A3-9E1E-47E4-8E89-5457811F5D36", "title": "Kotlin", "slug": "old", "amountOfVideos": 92},
-    {"id": "B7D6EAB7-0E6A-4ABF-BAAC-0C55A48E3D23", "title": "TensorFlow", "slug": "old", "amountOfVideos": 110},
-    {"id": "33A60CE5-EF55-4E7B-BE82-21DBBEC04165", "title": "PyTorch", "slug": "old", "amountOfVideos": 105},
-    {"id": "27D60743-AB6E-49D2-B1B8-0A9B4D53A447", "title": "Machine Learning", "slug": "old", "amountOfVideos": 120},
-    {"id": "F4F860FD-F4FA-4382-87E2-F3B0FD43AABD", "title": "Deep Learning", "slug": "old", "amountOfVideos": 115},
-    {"id": "2436A956-6884-4AA9-BE53-86D68823E4AB", "title": "Data Science", "slug": "old", "amountOfVideos": 100},
-    {"id": "4E74E1EB-33D1-4C2F-84D4-0D15D36CC9B3", "title": "GraphQL", "slug": "old", "amountOfVideos": 88},
-    {"id": "A940E15E-5CC3-4CCD-9E57-64B66CA8CEC5", "title": "REST API", "slug": "old", "amountOfVideos": 78},
-    {"id": "C4B8824D-2C9E-4C60-9EF0-1F08A040879C", "title": "Redux", "slug": "old", "amountOfVideos": 95},
-    {"id": "345C8E42-8E46-45A4-9E4D-51EF2B19648A", "title": "Sass", "slug": "old", "amountOfVideos": 70},
-    {"id": "0F91A1E4-870A-48CE-8B25-8322C036564F", "title": "LESS", "slug": "old", "amountOfVideos": 60},
-    {"id": "46D9D6C5-BD2B-4094-92CB-3A76D9A4E2DE", "title": "Webpack", "slug": "old", "amountOfVideos": 85},
-    {"id": "A7478645-CE33-4D6E-967D-AF108A83FEA6", "title": "Jenkins", "slug": "old", "amountOfVideos": 72},
-    {"id": "45D2EDDC-5936-4A1B-A76E-619D0CBB9073", "title": "Docker", "slug": "old", "amountOfVideos": 98},
-    {"id": "55C43176-FE92-4726-BB6B-172E2578EE58", "title": "Git", "slug": "old", "amountOfVideos": 105},
-    {"id": "8C9A70D6-8A6B-4F9A-AE41-BB40E1770A3F", "title": "GitHub", "slug": "old", "amountOfVideos": 92},
-    {"id": "3A200519-AE0F-43E7-BED3-8653E040E8E2", "title": "Bitbucket", "slug": "old", "amountOfVideos": 80},
-    {"id": "DE1FD49E-3D64-4718-B276-9F25460F5DD1", "title": "Jira", "slug": "old", "amountOfVideos": 75},
-    {"id": "C40CCF72-0D9E-4227-9A2D-9AC81321A07A", "title": "Confluence", "slug": "old", "amountOfVideos": 65},
-    {"id": "C89F4D54-48CC-4F5B-8D46-72A262745309", "title": "Agile", "slug": "old", "amountOfVideos": 110},
-    {"id": "DE0FAFFF-AEB1-4C91-BF9E-FAF8536D9D6C", "title": "Scrum", "slug": "old", "amountOfVideos": 100},
-    {"id": "AB4288E2-45F1-4FEF-BE2B-5514FEDBC6EF", "title": "DevOps", "slug": "old", "amountOfVideos": 120},
-    {"id": "242017B9-CB26-4D16-9F36-EC7891DB7C68", "title": "AWS", "slug": "old", "amountOfVideos": 130},
-    {"id": "CE4DBB6B-9CFD-4E83-8CC3-68CCFCBE6C5B", "title": "Azure", "slug": "old", "amountOfVideos": 115},
-    {"id": "F7B7B3B9-4D38-4BFD-A4AC-DA76EC2A274E", "title": "Google Cloud", "slug": "old", "amountOfVideos": 105},
-    {"id": "2F30E8E9-16F6-4FA0-AD64-2A5C03F9F2E3", "title": "Firebase", "slug": "old", "amountOfVideos": 88},
-    {"id": "F341DB1F-0FE4-4ED9-9EEB-4E3B71B369B7", "title": "Heroku", "slug": "old", "amountOfVideos": 78},
-    {"id": "648D6149-FF12-47B5-8B1D-8AC5C76E2A93", "title": "Nginx", "slug": "old", "amountOfVideos": 92},
-    {"id": "4A1BC3BB-2A45-41B5-9A7D-C5BF1E8499EB", "title": "Apache", "slug": "old", "amountOfVideos": 85},
-    {"id": "A67E1EF4-FD9A-40E9-8542-568D548FAC44", "title": "Linux", "slug": "old", "amountOfVideos": 75},
-    {"id": "B1426DE1-8D7F-4D25-A97B-149B91EF73B7", "title": "Windows", "slug": "old", "amountOfVideos": 70},
-    {"id": "A52214A7-784A-4C90-96DD-83957A3E5E13", "title": "MacOS", "slug": "old", "amountOfVideos": 68},
-    {"id": "2CC12E65-B5B3-4287-A2DB-7B13E4A1405D", "title": "iOS", "slug": "old", "amountOfVideos": 78},
-    {"id": "A2F07FA9-AF52-4DA7-9F93-3712D100EF94", "title": "Android", "slug": "old", "amountOfVideos": 88},
-    {"id": "7BC6E2B5-5C24-4E5C-8BC4-C9466F42A460", "title": "Flutter", "slug": "old", "amountOfVideos": 95},
-    {"id": "A977EF24-3A3A-40DD-AFBF-66D0EFB17E9D", "title": "React Native", "slug": "old", "amountOfVideos": 105},
-    {"id": "CA115A47-C571-4E5B-AF3E-8B4C52F5F1CC", "title": "Xamarin", "slug": "old", "amountOfVideos": 92},
-    {"id": "BF27459F-849B-4F4C-BBCB-4DADDF3DBFB1", "title": "Unity", "slug": "old", "amountOfVideos": 80},
-    {"id": "C6413AC7-C56B-4BB1-8EE2-B1DD0F524174", "title": "Unreal Engine", "slug": "old", "amountOfVideos": 75},
-    {"id": "53CF424A-C1C1-4BC8-8C3F-70F1CDB102B2", "title": "Game Development", "slug": "old", "amountOfVideos": 110},
-    {"id": "B0B12E4D-56E7-4F3F-88D2-1A7FD7CC3A77", "title": "AR/VR", "slug": "old", "amountOfVideos": 98},
-    {"id": "FAC768E1-1A07-4C94-A6B9-6B8F545ED06A", "title": "Blockchain", "slug": "old", "amountOfVideos": 120},
-    {"id": "13C8A6C7-5F20-42DD-84AD-12A539EF9FE5", "title": "Cryptocurrency", "slug": "old", "amountOfVideos": 115},
-    {"id": "C0C9E207-A882-40AF-96B4-F2D63A9FF115", "title": "Web Security", "slug": "old", "amountOfVideos": 100},
-    {"id": "9E415EA4-F88F-41A8-80C2-1B77EC265E71", "title": "CI/CD", "slug": "old", "amountOfVideos": 88},
-    {"id": "E1E1E6CA-64D1-4906-B899-8BDE5100195F", "title": "API Design", "slug": "old", "amountOfVideos": 78},
-    {"id": "F9D45BB7-34D1-4D27-B8A5-47AF1CC4D3D9", "title": "Microservices", "slug": "old", "amountOfVideos": 95},
-    {"id": "A7A02C34-B44C-43FB-9BC6-101E8786E98B", "title": "Serverless", "slug": "old", "amountOfVideos": 85},
-    {"id": "45C64D6E-9F2F-4DA3-BA88-DE12E1CFB0B1", "title": "GraphQL", "slug": "old", "amountOfVideos": 92},
-    {"id": "1A7A384D-8E2C-4A65-A1E9-A15300A0181D", "title": "Rust", "slug": "old", "amountOfVideos": 80},
-    {"id": "EC4FCE05-4C37-4F14-BE7A-34DA7F327ED7", "title": "Go", "slug": "old", "amountOfVideos": 75},
-    {"id": "4BC5F175-058A-4B29-8BB3-1B839D5DD01B", "title": "Vue.js", "slug": "old", "amountOfVideos": 110},
-    {"id": "17DD063C-571E-4A10-85E1-A94463C777D2", "title": "Next.js", "slug": "old", "amountOfVideos": 98},
-    {"id": "7D156DBF-5393-4DAA-A9E7-021F9FAB44E7", "title": "Gatsby", "slug": "old", "amountOfVideos": 120},
-    {"id": "A55E68F9-0BBB-4F96-86EB-21F1728E33D7", "title": "JAMstack", "slug": "old", "amountOfVideos": 115},
-    {"id": "B99E12B9-5F9B-4643-9D21-A699D23FF9E9", "title": "Responsive Design", "slug": "old", "amountOfVideos": 100},
-    {"id": "C37B38F2-AD9C-4147-A7B8-34A780FD4C1A", "title": "UI/UX Design", "slug": "old", "amountOfVideos": 88},
-    {"id": "F0E70CEC-1624-4C2F-B14C-21A4E01EB0C5", "title": "Adobe XD", "slug": "old", "amountOfVideos": 78},
-    {"id": "F4E69331-AC9F-47B2-BE22-C69A557558F6", "title": "Figma", "slug": "old", "amountOfVideos": 95},
-    {"id": "14D0D6CA-B739-4E5A-B10A-8697AA906E8F", "title": "Sketch", "slug": "old", "amountOfVideos": 85}
+    {
+      "title": "React",
+      "slug": "old",
+      "amountOfVideos": 142
+    },
+    {
+      "title": "JavaScript",
+      "slug": "old",
+      "amountOfVideos": 98
+    },
+    {
+      "title": "Python",
+      "slug": "old",
+      "amountOfVideos": 120
+    },
+    {
+      "title": "Java",
+      "slug": "old",
+      "amountOfVideos": 85
+    },
+    {
+      "title": "HTML",
+      "slug": "old",
+      "amountOfVideos": 75
+    },
+    {
+      "title": "CSS",
+      "slug": "old",
+      "amountOfVideos": 110
+    },
+    {
+      "title": "Node.js",
+      "slug": "old",
+      "amountOfVideos": 95
+    },
+    {
+      "title": "Angular",
+      "slug": "old",
+      "amountOfVideos": 130
+    },
+    {
+      "title": "Vue.js",
+      "slug": "old",
+      "amountOfVideos": 115
+    },
+    {
+      "title": "Django",
+      "slug": "old",
+      "amountOfVideos": 80
+    },
+    {
+      "title": "Flask",
+      "slug": "old",
+      "amountOfVideos": 60
+    },
+    {
+      "title": "Express.js",
+      "slug": "old",
+      "amountOfVideos": 105
+    },
+    {
+      "title": "MongoDB",
+      "slug": "old",
+      "amountOfVideos": 90
+    },
+    {
+      "title": "SQL",
+      "slug": "old",
+      "amountOfVideos": 70
+    },
+    {
+      "title": "TypeScript",
+      "slug": "old",
+      "amountOfVideos": 88
+    },
+    {
+      "title": "C++",
+      "slug": "old",
+      "amountOfVideos": 75
+    },
+    {
+      "title": "C#",
+      "slug": "old",
+      "amountOfVideos": 82
+    },
+    {
+      "title": "Ruby",
+      "slug": "old",
+      "amountOfVideos": 78
+    },
+    {
+      "title": "Swift",
+      "slug": "old",
+      "amountOfVideos": 68
+    },
+    {
+      "title": "Kotlin",
+      "slug": "old",
+      "amountOfVideos": 92
+    },
+    {
+      "title": "TensorFlow",
+      "slug": "old",
+      "amountOfVideos": 110
+    },
+    {
+      "title": "PyTorch",
+      "slug": "old",
+      "amountOfVideos": 105
+    },
+    {
+      "title": "Machine Learning",
+      "slug": "old",
+      "amountOfVideos": 120
+    },
+    {
+      "title": "Deep Learning",
+      "slug": "old",
+      "amountOfVideos": 115
+    },
+    {
+      "title": "Data Science",
+      "slug": "old",
+      "amountOfVideos": 100
+    },
+    {
+      "title": "GraphQL",
+      "slug": "old",
+      "amountOfVideos": 88
+    },
+    {
+      "title": "REST API",
+      "slug": "old",
+      "amountOfVideos": 78
+    },
+    {
+      "title": "Redux",
+      "slug": "old",
+      "amountOfVideos": 95
+    },
+    {
+      "title": "Sass",
+      "slug": "old",
+      "amountOfVideos": 70
+    },
+    {
+      "title": "LESS",
+      "slug": "old",
+      "amountOfVideos": 60
+    },
+    {
+      "title": "Webpack",
+      "slug": "old",
+      "amountOfVideos": 85
+    },
+    {
+      "title": "Jenkins",
+      "slug": "old",
+      "amountOfVideos": 72
+    },
+    {
+      "title": "Docker",
+      "slug": "old",
+      "amountOfVideos": 98
+    },
+    {
+      "title": "Git",
+      "slug": "old",
+      "amountOfVideos": 105
+    },
+    {
+      "title": "GitHub",
+      "slug": "old",
+      "amountOfVideos": 92
+    },
+    {
+      "title": "Bitbucket",
+      "slug": "old",
+      "amountOfVideos": 80
+    },
+    {
+      "title": "Jira",
+      "slug": "old",
+      "amountOfVideos": 75
+    },
+    {
+      "title": "Confluence",
+      "slug": "old",
+      "amountOfVideos": 65
+    },
+    {
+      "title": "Agile",
+      "slug": "old",
+      "amountOfVideos": 110
+    },
+    {
+      "title": "Scrum",
+      "slug": "old",
+      "amountOfVideos": 100
+    },
+    {
+      "title": "DevOps",
+      "slug": "old",
+      "amountOfVideos": 120
+    },
+    {
+      "title": "AWS",
+      "slug": "old",
+      "amountOfVideos": 130
+    },
+    {
+      "title": "Azure",
+      "slug": "old",
+      "amountOfVideos": 115
+    },
+    {
+      "title": "Google Cloud",
+      "slug": "old",
+      "amountOfVideos": 105
+    },
+    {
+      "title": "Firebase",
+      "slug": "old",
+      "amountOfVideos": 88
+    },
+    {
+      "title": "Heroku",
+      "slug": "old",
+      "amountOfVideos": 78
+    },
+    {
+      "title": "Nginx",
+      "slug": "old",
+      "amountOfVideos": 92
+    },
+    {
+      "title": "Apache",
+      "slug": "old",
+      "amountOfVideos": 85
+    },
+    {
+      "title": "Linux",
+      "slug": "old",
+      "amountOfVideos": 75
+    },
+    {
+      "title": "Windows",
+      "slug": "old",
+      "amountOfVideos": 70
+    },
+    {
+      "title": "MacOS",
+      "slug": "old",
+      "amountOfVideos": 68
+    },
+    {
+      "title": "iOS",
+      "slug": "old",
+      "amountOfVideos": 78
+    },
+    {
+      "title": "Android",
+      "slug": "old",
+      "amountOfVideos": 88
+    },
+    {
+      "title": "Flutter",
+      "slug": "old",
+      "amountOfVideos": 95
+    },
+    {
+      "title": "React Native",
+      "slug": "old",
+      "amountOfVideos": 105
+    },
+    {
+      "title": "Xamarin",
+      "slug": "old",
+      "amountOfVideos": 92
+    },
+    {
+      "title": "Unity",
+      "slug": "old",
+      "amountOfVideos": 80
+    },
+    {
+      "title": "Unreal Engine",
+      "slug": "old",
+      "amountOfVideos": 75
+    },
+    {
+      "title": "Game Development",
+      "slug": "old",
+      "amountOfVideos": 110
+    },
+    {
+      "title": "AR/VR",
+      "slug": "old",
+      "amountOfVideos": 98
+    },
+    {
+      "title": "Blockchain",
+      "slug": "old",
+      "amountOfVideos": 120
+    },
+    {
+      "title": "Cryptocurrency",
+      "slug": "old",
+      "amountOfVideos": 115
+    },
+    {
+      "title": "Web Security",
+      "slug": "old",
+      "amountOfVideos": 100
+    },
+    {
+      "title": "CI/CD",
+      "slug": "old",
+      "amountOfVideos": 88
+    },
+    {
+      "title": "API Design",
+      "slug": "old",
+      "amountOfVideos": 78
+    },
+    {
+      "title": "Microservices",
+      "slug": "old",
+      "amountOfVideos": 95
+    },
+    {
+      "title": "Serverless",
+      "slug": "old",
+      "amountOfVideos": 85
+    },
+    {
+      "title": "GraphQL",
+      "slug": "old",
+      "amountOfVideos": 92
+    },
+    {
+      "title": "Rust",
+      "slug": "old",
+      "amountOfVideos": 80
+    },
+    {
+      "title": "Go",
+      "slug": "old",
+      "amountOfVideos": 75
+    },
+    {
+      "title": "Vue.js",
+      "slug": "old",
+      "amountOfVideos": 110
+    },
+    {
+      "title": "Next.js",
+      "slug": "old",
+      "amountOfVideos": 98
+    },
+    {
+      "title": "Gatsby",
+      "slug": "old",
+      "amountOfVideos": 120
+    },
+    {
+      "title": "JAMstack",
+      "slug": "old",
+      "amountOfVideos": 115
+    },
+    {
+      "title": "Responsive Design",
+      "slug": "old",
+      "amountOfVideos": 100
+    },
+    {
+      "title": "UI/UX Design",
+      "slug": "old",
+      "amountOfVideos": 88
+    },
+    {
+      "title": "Adobe XD",
+      "slug": "old",
+      "amountOfVideos": 78
+    },
+    {
+      "title": "Figma",
+      "slug": "old",
+      "amountOfVideos": 95
+    },
+    {
+      "title": "Sketch",
+      "slug": "old",
+      "amountOfVideos": 85
+    },
+    {
+      "id": "592c",
+      "title": "Teste de Vídeo",
+      "slug": "teste-de-video",
+      "amountOfVideos": 0
+    },
+    {
+      "id": "4882",
+      "title": "Teste de Slug com Sonner",
+      "slug": "teste-de-slug-com-sonner",
+      "amountOfVideos": 0
+    },
+    {
+      "id": "b942",
+      "title": "vbgcvtguvc",
+      "slug": "vbgcvtguvc",
+      "amountOfVideos": 0
+    },
+    {
+      "id": "d971",
+      "title": "d abvc ahqAF",
+      "slug": "d-abvc-ahqaf",
+      "amountOfVideos": 0
+    },
+    {
+      "id": "5a94",
+      "title": "GNFNCBN",
+      "slug": "gnfncbn",
+      "amountOfVideos": 0
+    },
+    {
+      "id": "f215",
+      "title": "nbhfbahg",
+      "slug": "nbhfbahg",
+      "amountOfVideos": 0
+    },
+    {
+      "id": "e2e1",
+      "title": "adada",
+      "slug": "adada",
+      "amountOfVideos": 0
+    },
+    {
+      "id": "7feb",
+      "title": "cmcm",
+      "slug": "cmcm",
+      "amountOfVideos": 0
+    },
+    {
+      "id": "5f0c",
+      "title": "dadav ",
+      "slug": "dadav-",
+      "amountOfVideos": 0
+    }
   ]
-  
 }
